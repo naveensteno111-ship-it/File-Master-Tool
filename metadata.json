@@ -1,0 +1,6 @@
+{
+  "name": "FileMaster Tools",
+  "description": "Convert, Compress, Merge & Manage Your Files Online with fast, secure, browser-first tools for PDFs, images, and documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
